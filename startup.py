@@ -11,4 +11,4 @@ startup:app in the Gunicorn command.
 
 from hello_app.webapp import app
 
-print("startup B");
+print("startup A");
